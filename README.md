@@ -52,4 +52,4 @@ src/
 ## Contacto
 
 - **Docente:** Marin Roth, Dario A.
-- **Correo Institucional:** [laboratoriodecomputadoraselectronicas64@epet14.edu.ar](mailto:laboratoriodecomputadoraselectronicas64@epet14.edu.ar)
+- **Correo Institucional:** [laboratoriodecomputadoraselectronicas63@epet14.edu.ar](mailto:laboratoriodecomputadoraselectronicas64@epet14.edu.ar)
