@@ -38,8 +38,8 @@ src/
 2. **Clonación del Repositorio:**
 
    ```bash
-   git clone https://github.com/DarioAMarinRoth/lab-computadoras-64
-   cd lab-computadoras-64
+   git clone https://github.com/DarioAMarinRoth/lab-computadoras-63
+   cd lab-computadoras-63
    ```
 
 ## Recursos de Referencia
