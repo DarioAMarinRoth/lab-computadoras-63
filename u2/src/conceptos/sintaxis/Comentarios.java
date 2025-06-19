@@ -1,4 +1,4 @@
-package conceptos;
+package conceptos.sintaxis;
 
 public class Comentarios {
 

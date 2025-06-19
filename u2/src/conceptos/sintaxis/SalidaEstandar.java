@@ -1,4 +1,4 @@
-package conceptos;
+package conceptos.sintaxis;
 
 public class SalidaEstandar {
     public static void main(String[] args) {
