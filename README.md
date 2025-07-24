@@ -1,4 +1,4 @@
-# Lab. de computadoras - 6to 4rta
+# Lab. de computadoras - 6to 3ra
 
 ## Descripción
 
