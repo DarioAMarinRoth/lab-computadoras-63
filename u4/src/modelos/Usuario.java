@@ -15,13 +15,37 @@ public class Usuario {
 
     @Override
     public String toString() {
-        return String.format("Nombre: %s\nTelefono: %d\nEmail: %s", nombre, telefono, email);
+        return "Usuario{" +
+                "telefono=" + telefono +
+                ", nombre='" + nombre + '\'' +
+                ", email='" + email + '\'' +
+                ", ID=" + ID +
+                '}';
     }
 
     public Usuario() {
         ID = ++contadorUsuarios;
     }
 
+    public Usuario(String nombre) {
+        this.nombre = nombre;
+        ID = ++contadorUsuarios;
+    }
+
+    public Usuario(String nombre, String email) {
+        this.nombre = nombre;
+        this.email = email;
+        ID = ++contadorUsuarios;
+    }
+
+    public Usuario(int telefono, String nombre) {
+        this.telefono = telefono;
+        this.nombre = nombre;
+    }
+
+    public Usuario(String email, int telefono) {
+
+    }
     public int getID() {
         return ID;
     }
