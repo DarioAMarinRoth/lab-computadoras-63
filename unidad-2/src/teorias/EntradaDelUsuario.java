@@ -5,7 +5,7 @@ void main() {
     IO.println("La oración ingresada fue: " + miVariable);
 
     String miNumeroEnTexto = IO.readln("Ingrese un número");
-    // Tengo para PARSEAR el texto en un numero entero.
+    // Tengo para PARSEAR el texto en un número entero.
 
     int miNumero = Integer.parseInt(miNumeroEnTexto); // Esta función parsea de texto (String) a entero (int)
     IO.println("El número ingresado fue: " + miNumero);
