@@ -4,7 +4,7 @@
 
 | Clase | Tipo | Contenido | Fecha |
 | --- | --- | --- | --- |
-| 2.1 | Teoría | IDE, identificadores, comentarios. Hola mundo. Variables y tipos de dato. Concatenación. Entrada de usuario y parseo. | |
+| 2.1 | Teoría | IDE, identificadores, comentarios. Hola mundo. Variables y tipos de dato. Concatenación. Entrada de usuario y parseo. | 28/05/26 |
 | 2.2 | Teoría | Estructuras de control: `if`, `if-else`, `if-else if`, `while`, `do-while`. Instrucciones  `break` y `continue`. | |
 | 2.3 | Práctica | Objetivo: Ejercicios 18 y 20. Explicación de `for` y `switch`. | |
 | 2.4 | Teoría | Funciones: declaración, tipo de retorno, parámetros y argumentos. | |
@@ -16,18 +16,18 @@
 
 ## Temario completo
 
-1. [ ] **Familiarización con el IDE.**
-    - [ ] Identificadores y nomenclaturas
-    - [ ] Comentarios
-2. [ ] **Hola mundo: imprimir un mensaje.**
-3. [ ] **Variables y tipos de dato en java**
-4. [ ] **Concatenación**
-5. [ ] **Leer entradas del usuario. Parsear.**
+1. [x] **Familiarización con el IDE.**
+    - [x] Identificadores y nomenclaturas
+    - [x] Comentarios
+2. [x] **Hola mundo: imprimir un mensaje.**
+3. [x] **Variables y tipos de dato en java**
+4. [x] **Concatenación**
+5. [x] **Leer entradas del usuario. Parsear.**
 6. [ ] **Operadores**
-    - [ ] Aritméticos.
+    - [x] Aritméticos.
     - [ ] Incremento y decremento.
-    - [ ] Lógicos.
-    - [ ] Asignación.
+    - [x] Lógicos.
+    - [x] Asignación.
     - [ ] Operador ternario.
 7. [ ] **Estructuras de control de flujo:**
     1. [ ] Estructuras condicionales
