@@ -7,7 +7,7 @@
 | 2.1 | Teoría | IDE, identificadores, comentarios. Hola mundo. Variables y tipos de dato. Concatenación. Entrada de usuario y parseo. | 28/05/26 |
 | 2.2 | Teoría | Estructuras de control: `if`, `if-else`, `if-else if`, `while`, `do-while`. Instrucciones  `break` y `continue`. | |
 | 2.3 | Práctica | Objetivo: Ejercicios 18 y 20. Explicación de `for` y `switch`. | |
-| 2.4 | Teoría | Funciones: declaración, tipo de retorno, parámetros y argumentos. | |
+| 2.4 | Teoría | teorias.funciones.Funciones: declaración, tipo de retorno, parámetros y argumentos. | |
 | 2.5 | Práctica | Objetivo: Ejercicios 23, 24 y 25. | |
 | 2.6 | Práctica | Planteo y resolución en el pizarrón del ejercicio 31. | |
 | 2.7 | Teoría | Clases y miembros estáticos. Recursividad | |
@@ -40,7 +40,7 @@
         - [ ] do-while
         - [ ] for
     3. [ ] Instrucciones `break` y `continue`.
-8. [ ] **Funciones**
+8. [ ] **teorias.funciones.Funciones**
     1. [ ] Declaración de funciones
     2. [ ] Tipo de retorno y parámetros
     3. [ ] Argumentos
