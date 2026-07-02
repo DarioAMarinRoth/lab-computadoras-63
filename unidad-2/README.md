@@ -2,17 +2,17 @@
 
 ## Cronograma
 
-| Clase | Tipo | Contenido | Fecha |
-| --- | --- | --- | --- |
-| 2.1 | Teoría | IDE, identificadores, comentarios. Hola mundo. Variables y tipos de dato. Concatenación. Entrada de usuario y parseo. | 28/05/26 |
-| 2.2 | Teoría | Estructuras de control: `if`, `if-else`, `if-else if`, `while`, `do-while`. Instrucciones  `break` y `continue`. | |
-| 2.3 | Práctica | Objetivo: Ejercicios 18 y 20. Explicación de `for` y `switch`. | |
-| 2.4 | Teoría | teorias.funciones.Funciones: declaración, tipo de retorno, parámetros y argumentos. | |
-| 2.5 | Práctica | Objetivo: Ejercicios 23, 24 y 25. | |
-| 2.6 | Práctica | Planteo y resolución en el pizarrón del ejercicio 31. | |
-| 2.7 | Teoría | Clases y miembros estáticos. Recursividad | |
-| 2.8 | Práctica | Ejercicios: funciones y recursividad | |
-| 2.9 | Práctica | Práctica integradora de la unidad | |
+| Clase | Tipo     | Contenido                                                                                                             | Fecha                       |
+|-------|----------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| 2.1   | Teoría   | IDE, identificadores, comentarios. Hola mundo. Variables y tipos de dato. Concatenación. Entrada de usuario y parseo. | 28/05/26                    |
+| 2.2   | Teoría   | Estructuras de control: `if`, `if-else`, `if-else if`, `while`, `do-while`. Instrucciones  `break` y `continue`.      | 04/06/26                    |
+| 2.3   | Práctica | Objetivo: Ejercicios 18 y 20. Explicación de `for` y `switch`.                                                        | 11/06/26                    |
+| 2.4   | Teoría   | teorias.funciones.Funciones: declaración, tipo de retorno, parámetros y argumentos.                                   | 11/06/26                    |
+| 2.5   | Práctica | Objetivo: Ejercicios 23, 24 y 25.                                                                                     | 11/06/16                    |
+| 2.6   | Práctica | Planteo y resolución en el pizarrón del ejercicio 31.                                                                 | 02/07/26                    |
+| 2.7   | Teoría   | Clases y miembros estáticos. Recursividad                                                                             | 02/06/26 (sin recursividad) |
+| 2.8   | Práctica | Ejercicios: funciones y recursividad                                                                                  | Omitido                     |
+| 2.9   | Práctica | Práctica integradora de la unidad                                                                                     |                             |
 
 ## Temario completo
 
@@ -25,24 +25,24 @@
 5. [x] **Leer entradas del usuario. Parsear.**
 6. [ ] **Operadores**
     - [x] Aritméticos.
-    - [ ] Incremento y decremento.
+    - [x] Incremento y decremento.
     - [x] Lógicos.
     - [x] Asignación.
     - [ ] Operador ternario.
 7. [ ] **Estructuras de control de flujo:**
-    1. [ ] Estructuras condicionales
-        - [ ] if
-        - [ ] if-else
-        - [ ] if-elseif
+    1. [x] Estructuras condicionales
+        - [x] if
+        - [x] if-else
+        - [x] if-elseif
         - [ ] switch
     2. [ ] Estructuras de repetición
-        - [ ] while
-        - [ ] do-while
-        - [ ] for
-    3. [ ] Instrucciones `break` y `continue`.
+        - [x] while
+        - [x] do-while
+        - [x] for
+    3. [x] Instrucciones `break` y `continue`.
 8. [ ] **teorias.funciones.Funciones**
-    1. [ ] Declaración de funciones
-    2. [ ] Tipo de retorno y parámetros
-    3. [ ] Argumentos
-    4. [ ] Clases y miembros estáticos
+    1. [x] Declaración de funciones
+    2. [x] Tipo de retorno y parámetros
+    3. [x] Argumentos
+    4. [x] Clases y miembros estáticos
     5. [ ] Recursividad
