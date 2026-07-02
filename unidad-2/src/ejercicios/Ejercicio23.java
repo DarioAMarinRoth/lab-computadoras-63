@@ -1,6 +1,6 @@
 void main() {
     int num = 1;
-
+    double a = 0.2;
     if (esPrimo(num)) {
         IO.println("cierta lógica");
     } else {
@@ -16,8 +16,6 @@ boolean sonIguales(double num1, double num2, double tolerancia) {
 
 double valorAbsoluto(double num) {
     double resultado = num; // Asumiendo que es positivo
-
-
     if (resultado < 0) {
         resultado = resultado * -1;
     }
