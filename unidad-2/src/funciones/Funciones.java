@@ -16,4 +16,9 @@ public class Funciones {
         return resultado;
     }
 
+    public static int enteroAleatorio(int li, int ls) {
+        int A = ls + 1 - li;
+        return (int) Math.floor(Math.random() * A + li); // Math.floor(...) elimina los decimales de un double.
+    }
+
 }
