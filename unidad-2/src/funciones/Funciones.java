@@ -3,9 +3,8 @@ package funciones;
 public class Funciones {
 
     public static boolean sonIguales(double num1, double num2, double tolerancia) {
-        double diferencia = valorAbsoluto(num2 - num1);
-        boolean resultado = diferencia <= tolerancia;
-        return resultado;
+        double diferencia = num2 > num1 ? num2 - num1 : num1 - num2; // Operador ternario
+        return diferencia <= tolerancia;
     }
 
     public static double valorAbsoluto(double num) {
