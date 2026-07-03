@@ -10,7 +10,7 @@
 | 2.4   | Teoría   | teorias.funciones.Funciones: declaración, tipo de retorno, parámetros y argumentos.                                   | 11/06/26                    |
 | 2.5   | Práctica | Objetivo: Ejercicios 23, 24 y 25.                                                                                     | 11/06/16                    |
 | 2.6   | Práctica | Planteo y resolución en el pizarrón del ejercicio 31.                                                                 | 02/07/26                    |
-| 2.7   | Teoría   | Clases y miembros estáticos. Recursividad                                                                             | 02/06/26 (sin recursividad) |
+| 2.7   | Teoría   | Clases y miembros estáticos. Recursividad                                                                             | 02/07/26 (sin recursividad) |
 | 2.8   | Práctica | Ejercicios: funciones y recursividad                                                                                  | Omitido                     |
 | 2.9   | Práctica | Práctica integradora de la unidad                                                                                     |                             |
 
@@ -28,14 +28,14 @@
     - [x] Incremento y decremento.
     - [x] Lógicos.
     - [x] Asignación.
-    - [ ] Operador ternario.
-7. [ ] **Estructuras de control de flujo:**
+    - [x] Operador ternario.
+7. [x] **Estructuras de control de flujo:**
     1. [x] Estructuras condicionales
         - [x] if
         - [x] if-else
         - [x] if-elseif
-        - [ ] switch
-    2. [ ] Estructuras de repetición
+        - [x] switch
+    2. [x] Estructuras de repetición
         - [x] while
         - [x] do-while
         - [x] for
