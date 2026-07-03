@@ -40,9 +40,9 @@
         - [x] do-while
         - [x] for
     3. [x] Instrucciones `break` y `continue`.
-8. [ ] **teorias.funciones.Funciones**
+8. [x] **Funciones**
     1. [x] Declaración de funciones
     2. [x] Tipo de retorno y parámetros
     3. [x] Argumentos
     4. [x] Clases y miembros estáticos
-    5. [ ] Recursividad
+    5. [ ] ~~Recursividad~~
