@@ -3,8 +3,8 @@ import static funciones.Funciones.*;
 void main() {
 
     int[] numeritos = new int[7];
-    int indice = 0;
 
+    int indice = 0;
     while (indice < numeritos.length) {
         numeritos[indice] = leerEntero();
         indice++;
@@ -24,9 +24,28 @@ void main() {
         numeritos[i] = leerEntero();
     }
 
-    for (int i = 0; i < numeritos.length; i++) {
-        IO.println(numeritos[i]);
+
+    for (int numerito : numeritos) {
+        IO.println(numerito);
     }
+
+
+
+
+
+
+    for (int i = 0; i < numeritos.length; i++) {
+        int elemento = numeritos[i];
+    }
+
+
+
+    for (int elemento : numeritos) { // for each
+        IO.println(elemento);
+        elemento = 0;
+    }
+
+
 
 
 

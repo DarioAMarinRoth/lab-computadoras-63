@@ -1,8 +1,15 @@
 void main() {
+
+
     int[] cambio = cantidadBilletes(1000);
-    IO.println(cambio[0]); // Espero ver 3
-    IO.println(cambio[1]); // Espero ver 1
-    IO.println(cambio[2]); // Espero ver 6
+
+
+    IO.println(Arrays.toString(cambio));
+
+
+//    IO.println(cambio[0]); // Espero ver 3
+//    IO.println(cambio[1]); // Espero ver 1
+//    IO.println(cambio[2]); // Espero ver 6
 }
 
 int[] cantidadBilletes(int monto) {
